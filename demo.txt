@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master master master master master master 
+=======
+deve deve deve deve deve deve deve deve 
+>>>>>>> deve
